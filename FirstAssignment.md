@@ -33,8 +33,11 @@ These commands link the command line terminal to GitHub, enabling successful con
 
 To contribute to a project, the repository must be cloned from the project's main page. Cloning is getting a copy of a project that is to be worked on. To clone on GitHub Desktop, there is a provision to clone.  
 
-On the terminal, the URL cloned from the repository's main page is pasted after writing the `git clone` command on the terminal, like this.   
- ![git clone](git%20clone.png) 
+On the terminal, the URL cloned from the repository's main page is pasted after writing the `git command` on the terminal, like this.  
+  ![cloning](cloning.png)
+  
+   
+ 
   
 
 This automatically replicates the project to a local repository, and changes can be made here without affecting the original. 
